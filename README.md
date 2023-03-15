@@ -2,7 +2,7 @@
 
 Meditation Zoom instructions
 
-v [release 0/of/1].[beta 2/3].[alpha 7/?].[revision]
+v 0.2.7
 
 Goal: Create outline describing how to enable audio for meditantion bells in zoom.      
 
